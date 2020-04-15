@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title: Djurre de Boer
+description: Welcome to the personal site of Djurre de Boer
+logo: https://github.com/spidfire/personal-site/blob/master/profile.jpg?raw=true
+github.is_user_page: false
+github.is_project_page: false
